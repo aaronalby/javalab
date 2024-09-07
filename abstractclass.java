@@ -44,3 +44,5 @@ public static void main(String args[]){
  r.numberOfSides(); 
  t.numberOfSides(); 
  h.numberOfSides();
+}
+}
