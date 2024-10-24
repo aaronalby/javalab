@@ -7,4 +7,4 @@ public class hello {
 	}
 
 }
-https://krunker.io/?game=MBI:60tl4
+https://krunker.io/?game=MBI:o2h0o
